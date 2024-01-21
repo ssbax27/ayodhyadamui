@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ayodhyadamui/static/css/main.f855e6bc.css",
+    "main.js": "/ayodhyadamui/static/js/main.9b143caa.js",
+    "static/js/787.b7c7a603.chunk.js": "/ayodhyadamui/static/js/787.b7c7a603.chunk.js",
+    "index.html": "/ayodhyadamui/index.html",
+    "main.f855e6bc.css.map": "/ayodhyadamui/static/css/main.f855e6bc.css.map",
+    "main.9b143caa.js.map": "/ayodhyadamui/static/js/main.9b143caa.js.map",
+    "787.b7c7a603.chunk.js.map": "/ayodhyadamui/static/js/787.b7c7a603.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.9b143caa.js"
+  ]
+}
